@@ -1,0 +1,26 @@
+.timer{
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
+.but{
+    margin-top: 20px;
+}
+.start{
+    margin: 10px;
+    width: 100px;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+}
+h1{
+    color: blue;
+}
+span{
+    color: red;
+}
